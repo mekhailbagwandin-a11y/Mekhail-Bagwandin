@@ -1,2 +1,2 @@
-# Mekhail-Bagwandin
-apps
+# What's For Dinner
+Generates meal ideas from ingredients and dietary restrictions quickly
